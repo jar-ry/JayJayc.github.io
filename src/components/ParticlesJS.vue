@@ -145,6 +145,6 @@ export default {
     transform: translateX(-50%) translateY(-50%);
   background-size: cover;
   transition: 1s opacity;
-background: cornflowerblue;
+background: black;
 }
 </style>
